@@ -35,4 +35,5 @@ Tkinter – GUI
 ---
 
 ##Sample Output
- 🖼 Screenshot[(ml.jpeg]
+ ## 🖼 Screenshot  
+![App Screenshot](./ml.jpeg)
