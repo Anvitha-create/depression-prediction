@@ -1,11 +1,11 @@
-Depression Predictor
+#Depression Predictor
 
 🔹 A simple Tkinter GUI app that predicts depression likelihood using a Random Forest ML model trained on survey data.
 
 
 ---
 
-Features
+##Features
 
 GUI built with Tkinter (dropdowns & input fields).
 
@@ -21,7 +21,7 @@ Displays accuracy & classification report in the console.
 
 ---
 
-Technologies Used
+##Technologies Used
 
 Python
 
@@ -34,6 +34,5 @@ Tkinter – GUI
 
 ---
 
-Sample Output
-## 🖼 Screenshot
-![App Screenshot](ml.jpeg)
+##Sample Output
+ 🖼 Screenshot (ml.jpeg)
