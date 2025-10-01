@@ -1,4 +1,4 @@
-## Depression Predictor  
+##  🧠 Depression Predictor App
 
 🔹 A simple Tkinter GUI app that predicts depression likelihood using a Random Forest ML model trained on survey data.  
 
