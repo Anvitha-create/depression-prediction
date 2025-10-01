@@ -21,5 +21,5 @@
 
 ---
 
-##Sample Output  
+## 📷 Sample Output  
 ![App Screenshot](./ml.jpeg)
